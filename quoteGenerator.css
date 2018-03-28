@@ -1,0 +1,65 @@
+  html {
+    text-align: center;
+  }
+  
+  .intro {
+    font-size: 2rem;
+    
+  }
+  
+  .afterIntro {
+    font-size: 1.5rem;
+  }
+  
+  .button {
+    font-size: 2rem;
+  }
+  
+  .showQuoteHere {
+    font-size: 2rem;
+  }
+  
+  .tweet {
+    font-size: 2rem;
+  }
+
+
+html {
+  background: url(http://www.wallpaper-gratuit.eu/images/428/bigth_428.jpg);
+  background-size: 100% 100%;
+   background-repeat:no-repeat;
+}
+
+body {
+  
+  margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-bottom: 5%;font-family: Lobster, Monospace;
+}
+
+.button {
+    background-color: #008CBA;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+#afterIntro {
+    font-family: Lobster, Monospace;
+  
+
+}
+
+#showQuoteHere {
+    font-family: Lobster, Monospace;
+  width: auto;
+  border: 5px solid gray;
+  padding: 2%;
+}
+
